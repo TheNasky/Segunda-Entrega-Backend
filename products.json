@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "title": "empanada1",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328a",
+    "stock": 33
+  },
+  {
+    "id": 1,
+    "title": "empanada2",
+    "description": "una rica empanada",
+    "price": 300,
+    "thumbnail": "empanada.jpg",
+    "code": "328b",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "empanada3",
+    "description": "una rica empanada",
+    "price": 330,
+    "thumbnail": "empanada.jpg",
+    "code": "328c",
+    "stock": 33
+  }
+]
